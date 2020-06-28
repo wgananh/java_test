@@ -5,9 +5,10 @@ public class a {
  
 	//sadasdasd
 	//sadasdasd
-	//whg 
+	//whg 666
 	
 	public static void main(String[] args) {
-		System.out.print("whg666");
+		System.out.println("whg666");
+		System.out.print("wjk666");
 	}
 }
